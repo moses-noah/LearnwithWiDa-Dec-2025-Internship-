@@ -8,7 +8,7 @@ The repository is structured to show my progression from foundational functions 
 ## 🎓 Certification of Completion
 Successfully completed the rigorous 5-week program covering data manipulation, advanced Excel functions, and business intelligence reporting. 
 
-![WiDa Certificate of Completion](Assets/WiDa_Data_Analytics_Certificate.jpg)
+![WiDa Certificate of Completion](Assets\WiDa_Data_Analytics_Certificate.jpg)
 
 ## 🏆 Week 5 Capstone: Electronics Store Sales Analysis
 The culmination of the internship was a practical business case analyzing 100 synthetic transaction records for an electronics retailer to uncover regional performance and customer behavior. 
